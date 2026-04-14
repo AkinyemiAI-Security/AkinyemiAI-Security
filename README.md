@@ -24,3 +24,5 @@
 
 ## 📫 Contact Me
 - Email: drbeulah2@gmail.com
+- Orcid ID: 0009-0000-8878-2307
+- LinkedIn: https://www.linkedin.com/in/dr-abiola-o-akinyemi-310723322?trk=contact-info
