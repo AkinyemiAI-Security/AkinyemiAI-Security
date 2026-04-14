@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Dr. Abiola Akinyemi
 
-🔐 Cybersecurity Researcher and Lecturer | Ethical Hacker | AI in Security  
+🔐 Cybersecurity Researcher and Lecturer | Ethical Hacker | Programmer| AI in Security  
 
 ## 🔬 Research Interests
 - Ethical Hacking & Penetration Testing 
