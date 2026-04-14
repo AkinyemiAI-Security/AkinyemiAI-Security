@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Hi, I'm Dr. Abiola Akinyemi
 
-<!--
-**AkinyemiAI-Security/AkinyemiAI-Security** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔐 Cybersecurity Researcher and Lecturer | Ethical Hacker | AI in Security  
 
-Here are some ideas to get you started:
+## 🔬 Research Interests
+- Ethical Hacking & Penetration Testing 
+- AI-driven Vulnerability Detection  
+- Explainable AI in Cybersecurity
+- Software Engineering and Programming 
+- Social Engineering & Phishing Detection  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📄 Publications
+- Ethical Payload Framework using Msfvenom (2025)  
+- ML Models for Cybersecurity Breach Prediction (2025)  
+- Comparative Analysis of Ethical Hacking Techniques (2026)  
+- Explainable AI in Ethical Hacking (2026)  
+
+## 🛠 Tools & Technologies
+- Kali Linux  
+- Metasploit Framework  
+- Wireshark  
+- Python  
+- Machine Learning  
+
+## 📫 Contact Me
+- Email: drbeulah2@gmail.com
