@@ -29,6 +29,3 @@
 - LinkedIn: https://www.linkedin.com/in/dr-abiola-o-akinyemi-310723322?trk=contact-info
 
 
-## ▶️ How to Run
-```bash
-python scanner.py
